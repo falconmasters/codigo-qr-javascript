@@ -43,12 +43,8 @@ body {
 	background: #3e14b2;
 }
 
-.cajaQR {
+.contenedorQR {
 	display: flex;
 	justify-content: center;
 	padding: 40px 0;
-}
-
-.cajaQR img {
-	/* width: 100%; */
 }
